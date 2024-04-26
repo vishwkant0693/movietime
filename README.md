@@ -1,5 +1,4 @@
 # MovieTime
-<hr />
 Welcome to MovieTime, your go-to destination for discovering and exploring hundreds of movies from various languages, genres, and countries! With MovieTime, you can easily filter through an extensive collection of films to find exactly what you're looking for.
 <br />
 <br/>
